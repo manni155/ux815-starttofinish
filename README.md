@@ -1,2 +1,2 @@
-# Static HTML Boilerplate
-Basic HTML, CSS, and JavaScript setup for a simple website.
+# UX 815 Start To Finish Lab
+Lab 4.5 for UX 815
