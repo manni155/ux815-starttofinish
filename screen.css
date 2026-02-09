@@ -1,4 +1,50 @@
-/* Add screen styles below */
-a.active {
+body {
+    background-color: #e5eafaff;
+    color: #093824ff;
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 48px;
     font-weight: bold;
+    padding: 30px;
+    margin: 0;
+}
+
+#header {
+    background-color: #bf4e30ff;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#portrait {
+    height: 357px;
+}
+
+#tagline {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    padding: 0 227px 25px 227px;
+}
+
+h2 {
+    font-size: 48px;
+    margin: 0;
+}
+
+#body-text {
+    font-size: 28px;
+    margin: 20px 0 0 0;
+}
+
+#main-area {
+    display: flex;
+    column-gap: 15px;
+    padding: 0 227px;
+}
+
+main {
+    padding: 80px 0;
 }
